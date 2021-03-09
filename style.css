@@ -208,24 +208,24 @@ nav{
     border-radius: 50%;
     display: inline-block;
     margin: 2%;
-    margin-left: 2%;
+    margin-left: 1.8%;
   }
 
   .loe-title-leadership {
     position: relative;
     bottom: 0.7rem;
-    left: 0.35rem;
+    left: 0.4rem;
     font-family: 'Work Sans', sans-serif;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     font-weight: 1000;
     color: white;
   }
   .loe-title-engineering{
     position: relative;
     bottom: 0.7rem;
-    left: 0.35rem;
+    left: 0.4rem;
     font-family: 'Work Sans', sans-serif;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     font-weight: 1000;
     color: white;
   }
@@ -233,9 +233,9 @@ nav{
     text-align: center;
     position: relative;
     bottom: 0.7rem;
-    left: 0.05rem;
+    left: 0.04rem;
     font-family: 'Work Sans', sans-serif;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     font-weight: 1000;
     color: white;
   }
@@ -254,7 +254,8 @@ nav{
   }
   
   #photo-slider{
-  width: 70%;
+     z-index: -1;
+  width: 80%;
   margin-left: 10%;
   margin-top: 2%;
   margin-bottom: 4rem;
@@ -283,6 +284,7 @@ nav{
 
 
 #photo-slider{
+   z-index: -1;
   justify-content: center;
   width: 50%;
   margin-left: 10%;
