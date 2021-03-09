@@ -252,6 +252,13 @@ nav{
     margin-top: 7.5%;
     margin-left: 2.5%;
   }
+  
+  #photo-slider{
+  width: 70%;
+  margin-left: 10%;
+  margin-top: 2%;
+  margin-bottom: 4rem;
+}
 }
 
 
